@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @adryanra97
-- 👀 I’m interested in Big Data, Machine Learning, Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science and Big Data
-- 📫 How to reach me, email : adryanra97@gmail.com
+## Hi there, I'm Adryan Rizky Alviano
 
-<!---
-adryanra97/adryanra97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data science & Big Data professional with a Telco‑IT background. I build real‑world solutions using Python, SQL, machine learning (scikit‑learn, TensorFlow), and data visualization (Tableau).
+
+Experienced in cloud (GCP, Azure), Docker, virtual machines, and IoT data pipelines. Recently applied large language models, agent‑based systems, and prompt engineering in compliance‑focused AI tools.
+
+Architect of a multi-agent AI chatbot for GDPR & UU PDP compliance built with LangChain, Elasticsearch, Azure OpenAI and a Gradio UI. :contentReference[oaicite:1]{index=1}
+
+Lifelong learner: completed 80+ courses from Coursera, Udemy, Google and Microsoft. Skilled in talent analytics, GDPR, and Indonesian UU PDP.
+
+Explore pinned repos to see projects like **data‑protection‑ai‑assistant**, and more notebooks on deep learning, data pipelines, and SQL.
+
+Reach me via GitHub or email (in public profile).
