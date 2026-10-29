@@ -34,4 +34,4 @@ I care about responsible AI too, aligned with UU PDP and GDPR.
 
 ## Say hi
 
-I write about what I build and learn on my [website](https://alvin-homepage.vercel.app/blog). No pitch needed.
+I write about what I build and learn on my [website](https://adryanrizkyalviano.me/blog). No pitch needed.
